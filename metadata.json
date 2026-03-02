@@ -1,0 +1,5 @@
+{
+  "name": "CipherSQLStudio",
+  "description": "A browser-based SQL learning platform with real-time execution and intelligent hints.",
+  "requestFramePermissions": []
+}
